@@ -1,0 +1,46 @@
+
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+  }
+
+
+ section,footer{
+    width: 100vw;
+    height: 100vh;
+}
+
+header{
+    background-color: black;
+}
+
+section{
+    background-color: yellow;
+}
+
+footer{
+    background-color: blueviolet;
+}
+nav{
+    background-color: black;
+    height: 45px;
+    width: 100%;
+    position: fixed;
+    display: flex;
+    align-items: center;
+    justify-content:space-around;
+    margin:0 auto
+    
+}
+a{
+text-decoration: none;
+color: white;
+align-items: center;
+   
+}
