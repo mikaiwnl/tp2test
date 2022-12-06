@@ -1,2 +1,2 @@
 # tp2test
-https://github.com/mikaiwnl/tp2test
+https://mikaiwnl.github.io/tp2test/#Accueil
